@@ -1,0 +1,393 @@
+{
+  "_majorVersion": 1,
+  "_minorVersion": 0,
+  "_generated": "March 31st, 2024 @ 01:11:31 UTC",
+  "_applicationType": "PowerStats",
+  "_analysisType": "PercentageDistribution",
+  "_dataset": 134,
+  "_years": [
+    "2016/2020"
+  ],
+  "_rows": [
+    {
+      "type": "Categorical",
+      "id": "MAJORS",
+      "label": "Field of study or major (detailed)",
+      "elements": [
+        {
+          "label": "Undecided",
+          "values": [
+            0
+          ]
+        },
+        {
+          "label": "Agriculture and related sciences",
+          "values": [
+            1
+          ]
+        },
+        {
+          "label": "Natural resources and conservation",
+          "values": [
+            2
+          ]
+        },
+        {
+          "label": "Architecture, planning, related services",
+          "values": [
+            3
+          ]
+        },
+        {
+          "label": "Area, ethnic, and gender studies",
+          "values": [
+            4
+          ]
+        },
+        {
+          "label": "Communication and journalism",
+          "values": [
+            5
+          ]
+        },
+        {
+          "label": "Communications technologies/technicians",
+          "values": [
+            6
+          ]
+        },
+        {
+          "label": "Computer and information sciences",
+          "values": [
+            7
+          ]
+        },
+        {
+          "label": "Personal and culinary services",
+          "values": [
+            8
+          ]
+        },
+        {
+          "label": "Education",
+          "values": [
+            9
+          ]
+        },
+        {
+          "label": "Engineering",
+          "values": [
+            10
+          ]
+        },
+        {
+          "label": "Engineering technologies/technicians",
+          "values": [
+            11
+          ]
+        },
+        {
+          "label": "Foreign languages and literatures",
+          "values": [
+            12
+          ]
+        },
+        {
+          "label": "Family, consumer, and human sciences",
+          "values": [
+            13
+          ]
+        },
+        {
+          "label": "Legal professions and studies",
+          "values": [
+            14
+          ]
+        },
+        {
+          "label": "English language and literature/letters",
+          "values": [
+            15
+          ]
+        },
+        {
+          "label": "Liberal arts, sciences and humanities",
+          "values": [
+            16
+          ]
+        },
+        {
+          "label": "Library science",
+          "values": [
+            17
+          ]
+        },
+        {
+          "label": "Biological and biomedical sciences",
+          "values": [
+            18
+          ]
+        },
+        {
+          "label": "Mathematics and statistics",
+          "values": [
+            19
+          ]
+        },
+        {
+          "label": "Military Technologies",
+          "values": [
+            20
+          ]
+        },
+        {
+          "label": "Multi/interdisciplinary studies",
+          "values": [
+            21
+          ]
+        },
+        {
+          "label": "Parks, recreation, and fitness studies",
+          "values": [
+            22
+          ]
+        },
+        {
+          "label": "Philosophy and religious studies",
+          "values": [
+            23
+          ]
+        },
+        {
+          "label": "Theology and religious vocations",
+          "values": [
+            24
+          ]
+        },
+        {
+          "label": "Physical sciences",
+          "values": [
+            25
+          ]
+        },
+        {
+          "label": "Science technologies/technicians",
+          "values": [
+            26
+          ]
+        },
+        {
+          "label": "Psychology",
+          "values": [
+            27
+          ]
+        },
+        {
+          "label": "Security and protective services",
+          "values": [
+            28
+          ]
+        },
+        {
+          "label": "Public administration/social services",
+          "values": [
+            29
+          ]
+        },
+        {
+          "label": "Construction trades",
+          "values": [
+            30
+          ]
+        },
+        {
+          "label": "Mechanic and repair technologies",
+          "values": [
+            31
+          ]
+        },
+        {
+          "label": "Precision production",
+          "values": [
+            32
+          ]
+        },
+        {
+          "label": "Transportation and materials moving",
+          "values": [
+            33
+          ]
+        },
+        {
+          "label": "Visual and performing arts",
+          "values": [
+            34
+          ]
+        },
+        {
+          "label": "Health professions and related sciences",
+          "values": [
+            35
+          ]
+        },
+        {
+          "label": "Business, management, and marketing",
+          "values": [
+            36
+          ]
+        },
+        {
+          "label": "History",
+          "values": [
+            37
+          ]
+        },
+        {
+          "label": "Anthropology",
+          "values": [
+            38
+          ]
+        },
+        {
+          "label": "Criminology",
+          "values": [
+            39
+          ]
+        },
+        {
+          "label": "Economics",
+          "values": [
+            40
+          ]
+        },
+        {
+          "label": "Geography",
+          "values": [
+            41
+          ]
+        },
+        {
+          "label": "International relations and affairs",
+          "values": [
+            42
+          ]
+        },
+        {
+          "label": "Political science and government",
+          "values": [
+            43
+          ]
+        },
+        {
+          "label": "Sociology",
+          "values": [
+            44
+          ]
+        },
+        {
+          "label": "Social sciences, other",
+          "values": [
+            45
+          ]
+        }
+      ],
+      "missingElements": [
+        {
+          "label": "{Skipped}",
+          "values": [
+            -3
+          ]
+        }
+      ],
+      "mapped": [],
+      "ui": {
+        "identifier": "ipd7nzkwln",
+        "usageType": "Row",
+        "editType": "Default"
+      },
+      "processingType": "Category"
+    }
+  ],
+  "_columns": [
+    {
+      "type": "Categorical",
+      "id": "B1GENDER",
+      "label": "Gender, as of B&B:16/17 interview",
+      "elements": [
+        {
+          "label": "Male",
+          "values": [
+            1
+          ]
+        },
+        {
+          "label": "Female",
+          "values": [
+            2
+          ]
+        },
+        {
+          "label": "Transgender: male-to-female",
+          "values": [
+            3
+          ]
+        },
+        {
+          "label": "Transgender: female-to-male",
+          "values": [
+            4
+          ]
+        },
+        {
+          "label": "Genderqueer or gender nonconforming",
+          "values": [
+            5
+          ]
+        },
+        {
+          "label": "A different gender identity",
+          "values": [
+            6
+          ]
+        },
+        {
+          "label": "Questioning or unsure",
+          "values": [
+            7
+          ]
+        },
+        {
+          "label": "More than one gender",
+          "values": [
+            8
+          ]
+        }
+      ],
+      "missingElements": [
+        {
+          "label": "{Skipped}",
+          "values": [
+            -3
+          ]
+        },
+        {
+          "label": "{Unit non-response}",
+          "values": [
+            -8
+          ]
+        }
+      ],
+      "mapped": [],
+      "ui": {
+        "identifier": "tt3rzq1eqr",
+        "usageType": "Column",
+        "editType": "Default"
+      },
+      "processingType": "Category"
+    }
+  ],
+  "_filters": [],
+  "_subtable": null,
+  "_title": "Gender, as of B&B:16/17 interview by Field of study or major (detailed). ",
+  "_weight": "WTA000"
+}
